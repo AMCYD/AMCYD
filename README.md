@@ -1,4 +1,4 @@
-# Hello!
+# Hello! 💻
 I'm Amer, a **Security Engineer and Educator**.
 
 ## Security Projects
