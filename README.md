@@ -3,7 +3,7 @@
 I'm Amer, a **Security Engineer and Educator**.
 
 ### Security Projects
-
+---
 * [VantEndPoint](https://github.com/AMCYD/VantEndPoint) — An EDR/DFIR tool designed for deep endpoint visibility, process monitoring, and incident response.
 * [VantPass](https://github.com/AMCYD/VantPass) — A lightweight, customizable Python tool for generating cryptographically secure passwords.
 * [MITRE_Local_Wiki](https://github.com/AMCYD/MITRE_Local_Wiki) — Offline-accessible local deployment of the MITRE ATT&CK framework.
