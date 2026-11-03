@@ -9,5 +9,5 @@ I'm Amer, a **Security Engineer and Educator**.
 * [amcyd-bookmark](https://github.com/AMCYD/amcyd-bookmark), curated collection and quick-lookup tool for essential cybersecurity and OSINT resources.
 
 
-### Contact Me
+## Contact Me
 * **GitHub:** [@AMCYD](https://github.com/AMCYD)
