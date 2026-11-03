@@ -1,4 +1,4 @@
-# Hello!
+# Hello! <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4bb.svg" width="22" />
 I'm Amer, a **Security Engineer and Educator**.
 
 ## Security Projects
