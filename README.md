@@ -2,8 +2,6 @@
 
 I'm Amer, a **Security Engineer and Educator**.
 
----
-
 ### Security Projects
 
 * [VantEndPoint](https://github.com/AMCYD/VantEndPoint) — An EDR/DFIR tool designed for deep endpoint visibility, process monitoring, and incident response.
