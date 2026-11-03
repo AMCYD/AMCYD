@@ -1,4 +1,4 @@
-# Hello! <img src="AMCYD/VantEndPoint/frontend/VantMon.png" width="22" />
+# Hello!
 I'm Amer, a **Security Engineer and Educator**.
 
 ## Security Projects
